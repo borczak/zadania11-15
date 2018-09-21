@@ -1,0 +1,21 @@
+body{ 
+background-color: antiquewhite}
+
+h1 {
+    font-size: 30px;
+    color:red;
+    text-align: left;
+    font-size: 40px;
+}
+#tekst1, #tekst2 {
+    font-size: 30px;
+    text-align: left;
+    margin-top: 40px;
+    }
+#tekst1 {
+    color: brown;
+    
+}
+#tekst2 {    
+    color:blue;
+        }
